@@ -1,0 +1,27 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="pt.ubi.di.pdm.swipe">
+    <uses-sdk android:minSdkVersion="14" />
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"         android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+        <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+        <activity android:name=".MainActivity" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".CollectionDemoActivity"
+            android:label="@string/file_detail" />
+
+        <activity android:name=".CreateFile"
+            android:label="@string/create_file" />
+
+        <activity android:name=".ListView"
+            android:label="@string/listViewFiles"
+            android:windowSoftInputMode="stateHidden" />
+
+    </application>
+
+</manifest>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="always|collapseActionView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:id="@+id/menu_item_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:title="Search" android:showAsAction="ifRoom"
+        android:iconifiedByDefault="true"
+        />
+
+    <item android:id="@+id/file"
+        android:title="@string/files" android:showAsAction="ifRoom">
+        <!-- "file" submenu -->
+        <menu>
+            <item android:id="@+id/create_new_file"
+                android:title="@string/create_new_file" android:showAsAction="ifRoom"/>
+            <item android:id="@+id/delete_file"
+                android:title="@string/delete_file" android:showAsAction="ifRoom"/>
+            <item android:id="@+id/open"
+                android:title="@string/open" android:showAsAction="ifRoom"/>
+            <item android:id="@+id/save"
+                android:title="@string/save" android:showAsAction="ifRoom"/>
+
+        </menu>
+    </item>
+
+    <item android:id="@+id/remove_punctuation_and_vowels"
+        android:title="@string/remove" android:showAsAction="ifRoom">
+        <!-- "file" submenu -->
+        <menu>
+            <item android:id="@+id/remove_vowels_details"
+                android:title="@string/remove_vowels" android:showAsAction="ifRoom"/>
+            <item android:id="@+id/remove_punctuation_details"
+                android:title="@string/remove_punctuation" android:showAsAction="ifRoom"/>
+        </menu>
+    </item>
+</menu>

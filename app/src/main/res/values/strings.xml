@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Dotcomma</string>
+    <!-- Content Description -->
+    <string-array name="array01">
+        <item name="title">Sinais de Pontuação</item>
+        <item name="text">Os sinais de pontuação estavam quietos dentro do livro de Português quando estourou a discussão.&#xD;
+— Esta história já começou com um erro — disse a Vírgula.&#xD;
+— Ora, por quê? — perguntou o Ponto de Interrogação.&#xD;
+— Deveriam me colocar antes da palavra "quando" — respondeu a Vírgula.&#xD;
+— Concordo! — disse o Ponto de Exclamação. — O certo seria:&#xD;
+"Os sinais de pontuação estavam quietos dentro do livro de Português, quando estourou a discussão".&#xD;
+— Viram como eu sou importante? — disse a Vírgula.&#xD;
+— E eu também — comentou o Travessão. — Eu logo apareci para o leitor saber que você estava falando.&#xD;
+— E nós? — protestaram as Aspas. — Somos tão importantes quanto vocês. Tanto que, para chamar a atenção, já nos puseram duas vezes neste diálogo.&#xD;
+— O mesmo digo eu — comentou o Dois-Pontos. — Apareço sempre antes das Aspas e do Travessão.&#xD;
+— Estamos todos a serviço da boa escrita! — disse o Ponto de Exclamação. — Nossa missão é dar clareza aos textos. Se não nos colocarem corretamente, vira uma confusão como agora!&#xD;
+— Às vezes podemos alterar todo o sentido de uma frase — disseram as Reticências. — Ou dar margem para outras interpretações...&#xD;
+— É verdade — disse o Ponto. — Uma pontuação errada muda tudo.&#xD;
+— Se eu aparecer depois da frase "a guerra começou" — disse o Ponto de Interrogação — é apenas uma pergunta, certo?&#xD;
+— Mas se eu aparecer no seu lugar — disse o Ponto de Exclamação — é uma certeza: "A guerra começou!"&#xD;
+— Olha nós aí de novo — disseram as Aspas.&#xD;
+— Pois eu estou presente desde o comecinho — disse o Travessão.&#xD;
+— Tem hora em que, para evitar conflitos, não basta um Ponto, nem uma Vírgula, é preciso os dois — disse o Ponto e Vírgula. — E aí entro eu.&#xD;
+— O melhor mesmo é nos chamarem para trazer paz — disse a Vírgula.&#xD;
+— Então, que nos usem direito! — disse o Ponto Final. E pôs fim à discussão.</item>
+    </string-array>
+    <string-array name="array02">
+        <item name="title">A Herança</item>
+        <item name="text">\'Deixo meus bens a minha irmã não a meu sobrinho jamais será paga a conta do padeiro nada dou aos pobres. \'&#xD;
+&#xA;
+Não ressistiu e se foi antes de fazer a pontuação. Ficou o dilema, quem herdaria a fortuna? Eram quatro concorrentes.&#xD;
+&#xA;
+1) O sobrinho fez a seguinte pontuação:&#xD;
+Deixo meus bens à minha irmã? Não! A meu sobrinho. Jamais será paga a conta do padeiro. Nada dou aos pobres.&#xD;
+&#xA;
+2) A irmã chegou em seguida. Pontuou assim o texto:&#xD;
+Deixo meus bens à minha irmã. Não a meu sobrinho. Jamais será paga a conta do padeiro. Nada dou aos pobres.&#xD;
+&#xA;
+3) O padeiro pediu cópia do original. Puxou a brasa pra sardinha dele:&#xD;
+Deixo meus bens à minha irmã? Não! A meu sobrinho? Jamais! Será paga aconta do padeiro. Nada dou aos pobres.&#xD;
+&#xA;
+4) Aí, chegaram os descamisados da cidade. Um deles, sabido, fez esta interpretação:&#xD;
+Deixo meus bens à minha irmã? Não! A meu sobrinho? Jamais! Será paga aconta do padeiro? Nada! Dou aos pobres.</item>
+    </string-array>
+
+
+    <string-array name="array03">
+        <item name="title">O Principezinho</item>
+        <item name="text">"Foi então que apareceu a raposa.
+        - Olá, bom dia! - Disse a raposa.
+        - Olá, bom dia! - Respondeu educadamente o principezinho, que se virou para trás mas não viu ninguém.
+        - Estou aqui, debaixo da macieira - disse a voz.
+        - Quem és tu? - Perguntou o principezinho - És bem bonita...
+        - Sou uma raposa - disse a raposa.
+        - Anda brincar comigo - pediu-lhe o principezinho. - Estou tão triste...
+        - Não posso brincar contigo - disse a raposa. - Ainda ninguém me cativou...
+        - Ah! Então, desculpa! - Disse o principezinho.
+        Mas pôs-se a pensar, a pensar, e acabou por perguntar:
+        - «Cativar» quer dizer o quê?
+        - Vê-se logo que não és de cá - disse a raposa. - De que andas tu à procura?
+        - Ando à procura dos homens - disse o principezinho. - «Cativar» quer dizer o quê?
+        - Os homens têm espingardas e passam o tempo a caçar - disse a raposa. - É uma grande maçada! E também fazem criação de galinhas. Aliás, na minha opinião, é o único interesse deles. Anda à procura de galinhas?·- Não - disse o principezinho. - Ando à procura de amigos. «Cativar» quer dizer o quê?
+        - É uma coisa de que toda a gente se esqueceu - disse a raposa. - Quer dizer «criar laços»...
+        - Criar laços?
+        - Sim, laços - disse a raposa. - Ora vê: por enquanto tu não és para mim senão um rapazinho perfeitamente igual a cem mil outros rapazinhos. E eu não preciso de ti. E tu também não precisas de mim. Por enquanto eu não sou para ti senão uma raposa igual a cem mil outras raposas. Mas, se tu me cativares, passamos a precisar um do outro. Passas a ser único no mundo para mim. E eu também passo a ser única no mundo para ti...
+        - Parece-me que estou a perceber - disse o principezinho. - Sabes, há uma certa flor... tenho a impressão que ela me cativou...
+        - É bem possível - disse a raposa.
+        </item>
+    </string-array>
+
+    <string-array name="array04">
+        <item name="title">Os Lusíadas</item>
+        <item name="text">As armas e os barões assinalados,
+    Que da ocidental praia Lusitana,
+    Por mares nunca de antes navegados,
+    Passaram ainda além da Taprobana,
+    Em perigos e guerras esforçados,
+    Mais do que prometia a força humana,
+    E entre gente remota edificaram
+    Novo Reino, que tanto sublimaram;</item>
+    </string-array>
+
+
+    <string-array name="array05">
+        <item name="title">A Lenda da Serra da Estrela</item>
+        <item name="text">Chegara aos ouvidos do rei, que todas as noites, um pastor do alto da serra, conversava com uma estrela, a mais bela de todas. O rei mandou chamar o pastor e ordenou-lhe que lhe desse a estrela, prometendo em troca dar-lhe muitas riquezas.
+
+    O pastor respondeu que preferia continuar a ser pobre e não perder a sua amiga estrela, sem a qual não podia viver.
+
+    Ao voltar à sua cabana, no alto da serra, o pastor ouviu a sua estrela contar-lhe o receio que tivera de ele se deixar levar pela ambição da riqueza. O pastor afirmou-lhe a sua grande dedicação. E a Estrela, contente, prometeu-lhe que nunca deixaria de ser sua amiga.
+
+    Então, o velho pastor, em voz de profeta exclamou:
+
+    - De hoje em diante, esta serra há-de chamar-se Serra da Estrela.
+
+    E conta a lenda, que no alto da serra se vê uma Estrela, que brilha de maneira estranha e diferente, como quem ainda procura o bom pastor.</item>
+    </string-array>
+    <array name="text_examples">
+        <item>@array/array01</item>
+        <item>@array/array02</item>
+        <item>@array/array03</item>
+        <item>@array/array04</item>
+        <item>@array/array05</item>
+    </array>
+
+
+
+    <string name="save">Gravar</string>
+    <string name="load">Recarregar</string>
+    <string name="remove_punctuation">Remover Pontuação</string>
+    <string name="remove">Remover</string>
+    <string name="delete_file">Eliminar</string>
+    <string name="create_file">Criar Texto</string>
+    <string name="create_new_file">Criar</string>
+    <string name="open">Recarregar</string>
+    <string name="files">Ficheiros</string>
+    <string name="sampleTitle">Titulo</string>
+    <string name="sampleText">Escreva aqui o seu texto</string>
+    <string name="text">Texto</string>
+    <string name="listFiles">Começar</string>
+    <string name="exit">Sair</string>
+    <string name="remove_vowels">Remover Vogais</string>
+    <string name="listViewFiles">Listar Textos</string>
+    <string name="file_detail">Detalhes do Texto</string>
+</resources>
